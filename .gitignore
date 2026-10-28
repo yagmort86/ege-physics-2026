@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+
+# Database
+*.db
+*.sqlite3
+
+# System
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+.system_generated/
